@@ -1,5 +1,6 @@
 receiver
 ========
+Test!
 
 HP PaaS RabbitMQ Receiver - sample code that sets up a web server that receives messages from a rabbitMQ topic and serializes them to the database. 
 
